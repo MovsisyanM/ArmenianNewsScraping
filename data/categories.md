@@ -1,0 +1,9 @@
+0 Business
+1 Culture
+2 Events
+3 Law
+4 Politics
+5 Press-digest
+6 Sport
+7 Corona
+8 Other
